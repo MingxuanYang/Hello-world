@@ -1,3 +1,3 @@
 # Hello-world
 
-*你今天吃饭了吗*
+学习一下怎么使用GitHub  训练场
